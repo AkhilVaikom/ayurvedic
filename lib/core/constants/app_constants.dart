@@ -1,0 +1,1 @@
+enum DioMethod { post, get, put, delete }
